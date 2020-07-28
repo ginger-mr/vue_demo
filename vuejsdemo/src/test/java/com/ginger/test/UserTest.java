@@ -1,6 +1,6 @@
 package com.ginger.test;
 
-import com.ginger.domain.User;
+import com.ginger.pojo.User;
 import com.ginger.service.IUserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;

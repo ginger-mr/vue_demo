@@ -1,6 +1,6 @@
 package com.ginger.web.controller;
 
-import com.ginger.domain.User;
+import com.ginger.pojo.User;
 import com.ginger.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -13,7 +13,6 @@ import java.util.List;
 
 @Controller
 @RequestMapping("/user")
-
 public class UserController {
 
     @Autowired

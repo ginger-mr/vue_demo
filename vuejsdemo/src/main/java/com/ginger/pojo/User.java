@@ -1,4 +1,4 @@
-package com.ginger.domain;
+package com.ginger.pojo;
 
 import java.io.Serializable;
 

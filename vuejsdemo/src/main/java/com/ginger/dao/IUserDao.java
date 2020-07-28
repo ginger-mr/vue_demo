@@ -1,16 +1,11 @@
 package com.ginger.dao;
 
-import com.ginger.domain.User;
+import com.ginger.pojo.User;
 import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Update;
 
 import java.util.List;
 
-/**
- * 用户的持久层接口
- * @author 黑马程序员
- * @Company http://www.ithiema.com
- */
 public interface IUserDao {
 
     /**

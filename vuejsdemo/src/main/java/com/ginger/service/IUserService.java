@@ -1,14 +1,9 @@
 package com.ginger.service;
 
-import com.ginger.domain.User;
+import com.ginger.pojo.User;
 
 import java.util.List;
 
-/**
- * 用户的业务层接口
- * @author 黑马程序员
- * @Company http://www.ithiema.com
- */
 public interface IUserService {
 
     /**
